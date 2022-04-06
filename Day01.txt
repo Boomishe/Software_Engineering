@@ -1,0 +1,19 @@
+Blender. https://github.com/njanakiev/blender-scripting
+
+I find this useful because this gives you an idea of what Blender has prepared for you once you start using it.
+
+Unity. https://github.com/KellanHiggins/UnityFBXExporter
+
+This is a good source to start understanding of Unity engine.
+
+Unreal. https://github.com/Harrison1/unrealcpp
+
+Helps you understand of how to implement functions and how they work in Unreal.
+
+Stocks. https://github.com/StockSharp/StockSharp
+
+Helps you create robots for stock marker, crypto, and others.
+
+Market. https://github.com/hamaadshah/market_risk_gan_tensorflow
+
+Using Bidirectional Generative Adversarial Networks helps you keep track of the market values.
